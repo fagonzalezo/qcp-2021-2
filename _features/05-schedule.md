@@ -18,6 +18,15 @@ image:
 			<td>1.1 Introduction to quantum computing		
 			</td>
 			<td>
+				<b>Synchronous class</b>: <br>
+				Introduction to Quantum Computing 
+				(<a href= "intro quantum computing.pdf">slides</a>)<br>
+				Part 1: Past, present and future (<a href= "https://drive.google.com/file/d/1Bf-roihtUD2aymcySYGPFGc8sF5_W8FH/view?usp=sharing">video</a>)<br>
+				Part 2: Why quantum computing (<a href= "https://drive.google.com/file/d/1B6iOBOWQgPGi2TEIjCroNf8-MknWfAla/view?usp=sharing">video</a>)<br>
+				Part 3: How quantum computers work (<a href= "https://drive.google.com/file/d/1aMQoS6jVawLVthzJVrwELwFsWwycRZlw/view?usp=sharing">video</a>)<br>
+				Part 4: Quantum information (<a href= "https://drive.google.com/file/d/1CGaGIl9DkTe0ljvuzUshpapBP_TqUiSq/view?usp=sharing">video</a>)<br>
+				Part 5: How to program quantum computers (<a href= "https://drive.google.com/file/d/1RYuZUmk6ohIwP6nifrPgxOySlIJR6us1/view?usp=sharing">video</a>)<br>
+				Part 6: Quantum machine learning (<a href= "https://drive.google.com/file/d/1ebEqYGX-SgD1ya6yOdGDyLCrxCF1AY8j/view?usp=sharing">video</a>)<br>
 				<b>Resources </b>:
 				[IGFAE20]  Lecture 1: Introduction to Quantum Computing (<a href= "https://indico.cern.ch/event/865287/attachments/1971786/3280301/Lecture_1_v1.pdf">slides</a>)<br>
 				[Nielsen10] Sections 1.1 Global perspectives<br>
