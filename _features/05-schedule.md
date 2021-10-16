@@ -42,7 +42,7 @@ image:
 			</td>
 			<td>
 				<b>Asynchronous class</b>: <br>
-				Linear algebra review (<a href= "QCP-2020-2_Linear_Algebra.pdf">slides</a>)(video 1)(video 2)<br>
+				Linear algebra review (<a href= "QCP-2021-2 Linear Algebra.pdf">slides</a>)(<a href= "https://drive.google.com/file/d/1Y4kYgIvbiI-QEPKLuCgaMD0-oVvWUtZ_/view?usp=sharing">video 1</a>)(<a href= "https://drive.google.com/file/d/1x2G3YgrAMZLdmGfJM3RKDjzCbBE8siHH/view?usp=sharing">video 2</a>)(<a href= "https://drive.google.com/file/d/1m7DVNALG_uT_Vnpox96seG196e3cpE1s/view?usp=sharing">video 3</a>)<br>
 				<b>Reading material</b>: <br>
 				[Nielsen10] Section 2.1 Linear algebra<br>
 				[Nielsen10] Section 2.2 Postulates of quantum mechanics<br>
