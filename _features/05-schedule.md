@@ -46,9 +46,11 @@ image:
 				<b>Reading material</b>: <br>
 				[Nielsen10] Section 2.1 Linear algebra<br>
 				[Nielsen10] Section 2.2 Postulates of quantum mechanics<br>
-				[Asfaw19] <a href="https://qiskit.org/textbook/ch-appendix/linear_algebra.html"> 8.1 Linear Algebra </a></br>				
+				[Asfaw19] <a href="https://qiskit.org/textbook/ch-appendix/linear_algebra.html"> 8.1 Linear Algebra </a><br>
 			</td>
 			<td>
+				<a href="exercises1.pdf">Exercise set 1</a><br>
+				<a href="https://colab.research.google.com/drive/1by-EsH2doCOpdh_BaHJpYKc751cGxda_?usp=sharing">Assignment 1</a>
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +65,7 @@ image:
 				<b>Reading material</b>: <br>
 				[CS191x] Chapter 1 Qubits and Quantum Measurement<br>
 				[Nielsen10] Section 2.2 Postulates of quantum mechanics<br>
-				[Asfaw19] <a href="https://qiskit.org/textbook/ch-states/introduction.html"> 1. Quantum States and Qubits </a></br>	
+				[Asfaw19] <a href="https://qiskit.org/textbook/ch-states/introduction.html"> 1. Quantum States and Qubits </a><br>	
 			</td>
 			<td>
 			</td>
@@ -80,7 +82,7 @@ image:
 				<b>Reading material</b>: <br>
 				[CS191x] Chapter 2 Entanglement<br>
 				[Nielsen10] Section 2.2 Postulates of quantum mechanics<br>
-				[Asfaw19] <a href="https://qiskit.org/textbook/ch-gates/introduction.html"> 2. Multiple Qubits and Entanglement </a></br>	
+				[Asfaw19] <a href="https://qiskit.org/textbook/ch-gates/introduction.html"> 2. Multiple Qubits and Entanglement </a><br>	
 			</td>
 			<td>
 			</td>
