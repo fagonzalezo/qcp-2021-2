@@ -61,7 +61,7 @@ image:
 			</td>
 			<td>
 				<b>Asynchronous class</b>: <br>
-				Qubits (<a href= "QCP-2020-2_Qubits.pdf">slides</a>)(video 1)(video 2)<br>
+				Qubits (<a href= "QCP-2020-2_Qubits.pdf">slides</a>)(<a href= "https://drive.google.com/file/d/1nyB726wJmK7TEgdgAHqCHwcjQt8C5jeT/view">video 1</a>)(<a href= "https://drive.google.com/file/d/16IZRAzmnxSZX46o3zTHgbYnLHYoTNo5e/view?t=35">video 2</a>)<br>
 				<b>Reading material</b>: <br>
 				[CS191x] Chapter 1 Qubits and Quantum Measurement<br>
 				[Nielsen10] Section 2.2 Postulates of quantum mechanics<br>
