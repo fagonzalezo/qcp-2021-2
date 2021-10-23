@@ -68,6 +68,7 @@ image:
 				[Asfaw19] <a href="https://qiskit.org/textbook/ch-states/introduction.html"> 1. Quantum States and Qubits </a><br>	
 			</td>
 			<td>
+				<a href="exercises2.pdf">Exercise set 2</a><br>
 			</td>
 		</tr>
 		<tr>
