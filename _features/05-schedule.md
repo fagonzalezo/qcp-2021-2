@@ -79,13 +79,15 @@ image:
 			</td>
 			<td>
 				<b>Asynchronous class</b>: <br>
-				Entanglement (<a href= "QCP-2020-2 Entanglement.pdf">slides</a>)(video 1)(video 2)<br>
+				Entanglement (<a href= "QCP-2020-2 Entanglement.pdf">slides</a>)(<a href= "https://drive.google.com/file/d/1XAo-7F1OZG2F3T-Aj_xh77CBTvBpbqEa/view?t=430">video</a>)<br>
 				<b>Reading material</b>: <br>
 				[CS191x] Chapter 2 Entanglement<br>
 				[Nielsen10] Section 2.2 Postulates of quantum mechanics<br>
 				[Asfaw19] <a href="https://qiskit.org/textbook/ch-gates/introduction.html"> 2. Multiple Qubits and Entanglement </a><br>	
 			</td>
 			<td>
+				<a href="exercises3.pdf">Exercise set 3</a><br>
+				<a href="https://colab.research.google.com/drive/1eO25UKnQ9khY4zjoNdMgkPxGU9HJ64cT?usp=sharing">Assignment 2</a>
 			</td>
 		</tr>
 		<tr>
