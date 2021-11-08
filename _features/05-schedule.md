@@ -97,7 +97,7 @@ image:
 			</td>
 			<td>
 				<b>Asynchronous class</b>: <br>
-				Computational complexity (<a href= "QCP-2020-2_Computational_Complexity.pdf">slides</a>)(video 1)(video 2)<br>
+				Computational complexity (<a href= "QCP-2020-2_Computational_Complexity.pdf">slides</a>)(<a href= "https://drive.google.com/file/d/1twylkFaK_ZfUZcAfg_Owq2mlziUEfDkQ/view">video</a>)<br>
 				<b>Reading material</b>: <br>
 				[Nielsen10] 3.2 The analysis of computational problems<br>
 			</td>
