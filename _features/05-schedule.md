@@ -111,7 +111,7 @@ image:
 			</td>
 			<td>
 				<b>Asynchronous class</b>: <br>
-				Single qubit gates (video 1)(video 2)<br>
+				Single qubit gates (<a href= "https://drive.google.com/file/d/1JADpgsuB26qZtBjkqBSuV7YJLYZzdp4d/view?usp=sharing">video</a>)<br>
 				<b>Reading material</b>: <br>
 				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-states/atoms-computation.html">1.2 The Atoms of Computation</a><br>
 				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-states/representing-qubit-states.html">1.3 Representing Qubit States</a><br>
@@ -127,7 +127,7 @@ image:
 			</td>
 			<td>
 				<b>Asynchronous class</b>: <br>
-				Multiple qubit gates (video 1)(video 2)<br>
+				Multiple qubit gates (<a href= "https://drive.google.com/file/d/1boIThex56zXxQRZ9Oc2NBX-6QYugCOSt/view?usp=sharing">video 1</a>)(<a href= "https://drive.google.com/file/d/1WtzyyLEa5KrW5-PJP0eFKkA6Dgy79m-b/view?usp=sharing">video 2</a>)(<a href= "https://drive.google.com/file/d/1JADpgsuB26qZtBjkqBSuV7YJLYZzdp4d/view?usp=sharing">video 3</a>)<br>
 				<b>Reading material</b>: <br>
 				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-gates/multiple-qubits-entangled-states.html">2.2 Multiple Qubits and Entangled States</a><br>
 				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-gates/phase-kickback.html">2.3 Phase Kickback</a><br>
