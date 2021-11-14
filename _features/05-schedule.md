@@ -118,6 +118,7 @@ image:
 				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-states/single-qubit-gates.html">1.4 Single Qubit Gates</a><br>
 			</td>
 			<td>
+				<a href="exercises4.pdf">Exercise set 4</a><br>
 			</td>
 		</tr>
 		<tr>
