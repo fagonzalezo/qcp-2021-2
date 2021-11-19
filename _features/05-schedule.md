@@ -135,6 +135,7 @@ image:
 				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-gates/more-circuit-identities.html">2.4 More Circuit Identities</a><br>
 			</td>
 			<td>
+				<a href="exercises5.pdf">Exercise set 5</a><br>
 			</td>
 		</tr>
 		<tr>
