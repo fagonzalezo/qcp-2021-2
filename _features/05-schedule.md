@@ -122,7 +122,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Nov 23</td>
+			<td>Nov 23-30</td>
 			<td>
 				2.1 Quantum circuits and gates
 			</td>
@@ -140,13 +140,13 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Nov 30</td>
+			<td>Dec 7</td>
 			<td>
 				2.2 Superdense coding and teleportation
 			</td>
 			<td>
 				<b>Asynchronous class</b>: <br>
-				Superdense coding and teleportation (video 1)(video 2)<br>
+				Superdense coding and teleportation (<a href= "https://drive.google.com/file/d/1c-b9MgG5yGsXzitTTHc0y8n9I0sDbsax/view?t=11">video 1</a>)(<a href= "https://drive.google.com/file/d/1WclOxhhLPjV5gayrUxozyjzOJmirZMJr/view?t=273">video 2</a>)<br>
 				<b>Reading material</b>: <br>
 				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-algorithms/teleportation.html">3.10 Quantum Teleportation</a><br>
 				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-algorithms/superdense-coding.html">3.11 Superdense Coding</a><br>
@@ -155,7 +155,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Dec 7</td>
+			<td>Dec 14</td>
 			<td>
 				2.3 Deutsch-Joza algorithm<br>
 			</td>
