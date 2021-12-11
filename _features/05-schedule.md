@@ -158,25 +158,14 @@ image:
 			<td>Dec 14</td>
 			<td>
 				2.3 Deutsch-Joza algorithm<br>
-			</td>
-			<td>
-				<b>Asynchronous class</b>: <br>
-				Deutsch-Joza algorithm (<a href= "QCP-2020-2 Deutsch-Jozsa_Algorithm.pdf">slides</a>)(video 1)<br>
-				<b>Reading material</b>: <br>
-				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-algorithms/deutsch-jozsa.html">3.2 Deutsch-Jozsa Algorithm</a><br>
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>Dec 14</td>
-			<td>
 				2.4 Simon's algorithm
 			</td>
 			<td>
 				<b>Asynchronous class</b>: <br>
-				Simon's algorithm (<a href= "QCP-2020-2_Simons_algorithm.pdf">slides</a>)(video 1)<br>
+				Deutsch-Joza algorithm (<a href= "QCP-2020-2 Deutsch-Jozsa_Algorithm.pdf">slides</a>)(<a href= "https://drive.google.com/file/d/13dnpn4GKOETNRySGzA_UI7GJT6vxzanR/view?usp=sharing">video 1</a>)<br>
+				Simon's algorithm (<a href= "QCP-2020-2_Simons_algorithm.pdf">slides</a>)(<a href= "https://drive.google.com/file/d/1mjC1PqrfACG80sVy0_Zozd4pbeMwc4sx/view?usp=sharing">video 1</a>, <a href= "https://drive.google.com/file/d/1F-vZc3-nwLHFo4ecswJJeXSryzy5DZGd/view?usp=sharing">video 2</a>) <br>
 				<b>Reading material</b>: <br>
+				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-algorithms/deutsch-jozsa.html">3.2 Deutsch-Jozsa Algorithm</a><br>
 				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-algorithms/simon.html">3.4 Simon's Algorithm</a><br>
 			</td>
 			<td>
