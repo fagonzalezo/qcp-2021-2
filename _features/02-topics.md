@@ -32,13 +32,15 @@ image:
 
 2.4 Simon's algorithm
 
-2.5 Shor's algorithm
+2.5 Quantum Fourier Transform 
 
-2.6 Grover's algorithm
+2.6 Quantum Phase Estimation
 
-2.7 Noisy intermediate scale quantum computers
+2.7 Shor's algorithm
 
-2.8 Quantum algorithms for applications
+2.8 Grover's algorithm
+
+2.9 Quantum algorithms for applications
 				
 3 **Quantum machine learning**
 

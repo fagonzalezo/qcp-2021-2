@@ -174,19 +174,33 @@ image:
 		<tr>
 			<td>Jan 11</td>
 			<td>
-			2.5 Shor's algorithm <br>
+			2.5 Quantum Fourier Transform <br>
+			2.6 Quantum Phase Estimation <br>
+			2.7 Shor's Algorithm <br>
+			2.8 Grover's Algorithm <br>
 			</td>
 			<td>
+			<b>Reading material</b>: <br>
+				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-algorithms/quantum-fourier-transform.html">3.5 Quantum Fourier Transform</a><br>
+				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-algorithms/quantum-phase-estimation.html">3.6 Quantum Phase Estimation</a><br>
+				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-algorithms/shor.html">3.7 Shor's Algorithm</a><br>
+				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-algorithms/grover.html">3.8 Grover's Algorithm</a><br>
 			</td>
 			<td>
+				<a href="project.pdf">Final Project</a><br>
 			</td>
 		</tr>
 		<tr>
 			<td>Jan 18</td>
 			<td>
-				2.8 Quantum algorithms for applications
+				2.9 Quantum algorithms for applications
 			</td>
 			<td>
+				<b>Reading material</b>: <br>
+				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-applications/hhl_tutorial.html">4.1.1 Solving Linear Systems of Equations using HHL</a><br>
+				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-applications/vqe-molecules.html">4.1.2 Simulating Molecules using VQE</a><br>
+				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-applications/qaoa.html">4.1.3 Solving combinatorial optimization problems using QAOA</a><br>
+				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-applications/satisfiability-grover.html">4.1.4 Solving Satisfiability Problems using Grover's Algorithm</a><br>
 			</td>
 			<td>
 			</td>
