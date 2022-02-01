@@ -6,9 +6,10 @@ subheading:
 image: 
 ---
 
+* Participation 10%
 * Assignments 30%
 * Presentation 20%
-* Exam 30%
+* Exam 20%
 * Final project 20%
 
-[Grades]()
+[Grades](https://docs.google.com/spreadsheets/d/1fhCCRAA8yTyhZHgkEo_g_tyXQUqeb4I4I2KJvf9VY3Q/edit?usp=sharing)
